@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaddam-Badari
-- 👀 I’m interested in Learning.
+- 👀 I’m interested in Automating Data processing tasks using Python. Can be Excel, SPSS anything and everything related to data.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me at badarigaddam@gmail.com.
 - 😄 Pronouns: He/Him
