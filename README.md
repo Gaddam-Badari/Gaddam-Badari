@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Gaddam-Badari
+- 👀 I’m interested in Learning.
+- 💞️ I’m looking to collaborate on Python projects.
+- 📫 How to reach me at badarigaddam@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Mikhail Tal is the G.O.A.T.
